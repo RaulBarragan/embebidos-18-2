@@ -3,7 +3,7 @@
 2. Nasu Huitron Jessica Monserrat
 
 ### Conexion con SSH
-![Estado del servicio SSH](/img/statusSSH.jpg)
+![Estado del servicio SSH](embebidos-18-2/practicas/prac1.UsoRasp/equipo2/img/conexSSH.jpg)
 
 ![Prueba de conexion SSH](/img/conexSSH.jpg)
 
