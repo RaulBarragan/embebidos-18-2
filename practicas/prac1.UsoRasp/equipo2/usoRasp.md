@@ -10,7 +10,7 @@
 ### Conexion con VNC
 ![Estado del servicio VNC](/img/statusVNC.jpg)
 
-![Prueba de conexion con VNC Viewer](/img/conexVNC.png)
+![Prueba de conexion con VNC Viewer](embebidos-18-2/practicas/prac1.UsoRasp/equipo2/img/conexVNC.png)
 
 ![Tarjeta Raspberry en funcionamiento](/img/raspVNC.png)
 
